@@ -1,0 +1,66 @@
+2
+2308
+12.99
+Summer Tee Shirt
+Red
+M
+2
+2393
+21.99
+Long Sleeve Shirt
+Navy Blue
+L
+2
+2345
+15.99
+Signature Tee
+White
+L
+3
+3154
+22.99
+Dress Pant
+Black
+L
+3
+3192
+35
+Khaki Pant
+Brown
+L
+3
+3102
+12.99
+Track Shorts
+Blue
+M
+1
+1390
+40.59
+Dress Shoes
+Brown
+9
+1
+1244
+40.99
+Dress Shoes
+Black
+11
+1
+1398
+35.59
+Track Shoes
+Red
+9
+1
+1347
+35.99
+Track Shoes
+Green
+9
+3
+3921
+20.99
+Blue Jean
+Blue
+L
